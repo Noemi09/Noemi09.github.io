@@ -1,6 +1,24 @@
 
+/* Ejercicio 2 */
+
+/**
+ *Cambia el color de texto de al menos 5 etiquetas H1. Usa una regla CSS con un selector 
+ *tipo "id" y otro tipo "class". (Este comentario es de prueba)
+ *------------------------------------------------------------------------------------
+ */
+
 h1 {color: yellow;}
 
 #t1 {color: purple;}
 
 .t2 {color: yellowgreen;}
+
+
+/* Ejercicio 3 */
+
+.p1 b {color: yellowgreen;}
+
+.p2 b {color: blue;}
+
+.p3 b {color: coral;}
+
